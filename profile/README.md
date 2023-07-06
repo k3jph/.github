@@ -1,5 +1,6 @@
 # Eur Ing Dr James P. Howard, II
- A Mathematician, a Different Kind of Mathematician, and a Statistician
+
+A Mathematician, a Different Kind of Mathematician, and a Statistician
 
 ## About me
 
@@ -32,6 +33,6 @@ In my free time, I’m an active member of my community, having served  [Howard 
 -   Senior Member of the  [Institute of Electrical and Electronics Engineers](https://jameshoward.us/assets/docs/JHoward-IEEE-SM.pdf)
 
 ## Stuff I Work With
-I work with:<br/>
+
 ![](https://skillicons.dev/icons?i=latex,mastodon,pytorch,octave,md,matlab,rails,cpp,bsd,postgres,react,gcp,arduino,c,r,aws,python,git,cmake,materialui&perline=5)
 
