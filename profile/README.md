@@ -1,4 +1,4 @@
-# Eur Ing Dr James P. Howard, II
+# Dr James P. Howard, II
 
 A Mathematician, a Different Kind of Mathematician, and a Statistician
 
