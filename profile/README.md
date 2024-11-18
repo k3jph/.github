@@ -17,6 +17,8 @@ In my free time, I’m an active member of my community, having served  [Howard 
 -   PhD,  [Public Policy](https://jameshoward.us/assets/docs/UMBC-PHD-POLICY.pdf), University of Maryland Baltimore County
     -   CPhil,  [Public Policy](https://jameshoward.us/assets/docs/JHoward-UMBC-CPhil.pdf), University of Maryland Graduate School, Baltimore
     -   MPA,  [Public Policy and Administration](https://jameshoward.us/assets/docs/UBALT-MPA-PPA.pdf), University of Baltimore
+-   MA,  [Buddhist Studies](https://jameshoward.us/assets/docs/JHoward-MA-USW.pdf), University of South Wales
+-   MS,  [Electrical Engineering](https://jameshoward.us/assets/docs/JHoward-MS-Columbia.pdf), Columbia University in the City of New York
 -   MS,  [Applied and Computational Mathematics](https://jameshoward.us/assets/docs/JHoward-JHU-MS-ACM.pdf), the Johns Hopkins University
 -   MS,  [Environmental Engineering and Science](https://jameshoward.us/assets/docs/JHU-MS-EES.pdf), the Johns Hopkins University
 -   BA,  [East Asian Studies](https://jameshoward.us/assets/docs/UMGC-BA-EAS.pdf),  _cum laude_, University of Maryland Global Campus
